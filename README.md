@@ -6,6 +6,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 
+## About me
+Nothing gives me more joy than working on (and solving) a data problem.
+
+- I have developed an organisation-wide procedure to collect, store, and analyse data from Ghana, the UK, Uganda, Rwanda, and Zambia.
+- I have migrated an organisation from an Excel-based to a SaaS-based CRM system, designing and configuring the architecture, building analysis tools, and providing training.
+- I can do cool things with Excel's PowerQuery and PowerBI.
+- I am currently learning Python.
+
+
 <!--
 **zwparsons/zwparsons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
