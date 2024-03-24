@@ -7,7 +7,7 @@
 </div>
 
 ## About me
-Nothing gives me more joy than working on (and solving) a data problem.
+Call me simple, but I just really enjoy working on (and solving) a data problem.
 
 - I have developed an organisation-wide procedure to collect, store, and analyse data from Ghana, the UK, Uganda, Rwanda, and Zambia.
 - I have migrated an organisation from an Excel-based to a SaaS-based CRM system, designing and configuring the architecture, building analysis tools, and providing training.
