@@ -1,4 +1,10 @@
-### Hi there 👋
+<div id="title" align="center">
+<h1>Zac Parsons</h1>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/zwparsons/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
 
 <!--
 **zwparsons/zwparsons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
